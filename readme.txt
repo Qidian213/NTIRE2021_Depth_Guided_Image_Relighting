@@ -13,3 +13,6 @@
 4.  Testing For track2 
      a. change 'input_folder'  and 'guide_folder' to test dataset dir,  line 99-100 in file 'Track2_Test_Ensemble.py'
      b. run cmd : python Track2_Test_Ensemble.py, result will be find in 'work_space/Test_Track2_DeepBlueAI' dir 
+
+
+https://github.com/mahmoudnafifi/WB_color_augmenter
