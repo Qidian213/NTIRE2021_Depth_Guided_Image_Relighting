@@ -5,21 +5,12 @@
 In this repo, we include the 1st Place code and submission to [NTIRE 2021 Depth Guided Relighting Challenge Track 2: Any-to-any relighting](https://competitions.codalab.org/competitions/28031) and submission to [NTIRE 2021 Depth Guided Relighting Challenge Track 1: One-to-one relighting](https://competitions.codalab.org/competitions/28030) (DeepBlueAI Team submission) 
 
 
-[[Paper]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf) [[Video]](https://www.bilibili.com/video/BV1hK411A78n/)
-
-We fuse the models trained on Paddlepaddle and Pytorch. To illustrate them, we provide the two training parts seperatively as following. 
-
-- We include the [Paddlepaddle](https://github.com/PaddlePaddle/Paddle) training code at [Here](https://github.com/PaddlePaddle/Research/tree/master/CV/PaddleReid).
-- We include the [Pytorch](https://pytorch.org/) training code at [Here](https://github.com/layumi/AICIty-reID-2020/tree/master/pytorch).
-
 ### Performance：
- AICITY2020 Challange Track2 Leaderboard
- 
- |TeamName|mAP|Link|
- |--------|----|-------|
- |**Baidu-UTS(Ours)**|84.1%|[code](https://github.com/layumi/AICIty-reID-2020)|
- |RuiYanAI|78.1%|[code](https://github.com/Xiangyu-CAS/AICity2020-VOC-ReID)|
- |DMT|73.1%|[code](https://github.com/heshuting555/AICITY2020_DMT_VehicleReID)|
+ NTIRE 2021 Depth Guided Relighting Challenge Leaderboard
+![](https://github.com/Qidian213/NTIRE_Relighting/blob/main/Meida/Score_Result.png)
+
+ And Some Visible Results
+![](https://github.com/Qidian213/NTIRE_Relighting/blob/main/Meida/Image_Result.png)
 
 ### Extracted Features & Camera Prediction & Direction Prediction:
 I have updated the feature. You may download from [GoogleDrive](https://drive.google.com/file/d/1q0ap5smXoRIQ-oEUMbSMMSl_lEOT0Fk6/view?usp=sharing) or [OneDrive](https://studentutsedu-my.sharepoint.com/:u:/g/personal/12639605_student_uts_edu_au/EdxlWLP9bB9Bga0jfDyoIO8Berahz8plAeRY6M4t8g_6iA?e=mSttQx) (expired by July 1 2022)
