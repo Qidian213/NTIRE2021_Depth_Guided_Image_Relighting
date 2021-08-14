@@ -3,9 +3,9 @@
 In this repo, we include the 1st Place code and submission to [NTIRE 2021 Depth Guided Relighting Challenge Track 2: Any-to-any relighting](https://competitions.codalab.org/competitions/28031) and submission to [NTIRE 2021 Depth Guided Relighting Challenge Track 1: One-to-one relighting](https://competitions.codalab.org/competitions/28030) of team DeepBlueAI
 
 
-The submission for track1 can be find at ![](https://github.com/Qidian213/NTIRE_Relighting/tree/main/Meida/Test_Track1_DeepBlueAI)
+The submission for track1 can be find at "Meida/Test_Track1_DeepBlueAI"
 
-The submission for track2 can be find at ![](https://github.com/Qidian213/NTIRE_Relighting/tree/main/Meida/Test_Track2_DeepBlueAI)
+The submission for track2 can be find at "Meida/Test_Track2_DeepBlueAI"
 
 
 ### Performance：
