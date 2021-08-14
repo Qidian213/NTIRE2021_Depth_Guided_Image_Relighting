@@ -1,8 +1,9 @@
-## CVPR2021 NTIRE 2021 Depth Guided Relighting Challenge(https://competitions.codalab.org/competitions/28031)
+## CVPR2021 NTIRE 2021 Depth Guided Relighting Challenge
 
 ![](https://github.com/layumi/AICIty-reID-2020/blob/master/heatmap2020.jpg)
 
-In this repo, we include the 1st Place submission to [NTIRE 2021 Depth Guided Relighting Challenge](https://competitions.codalab.org/competitions/28031) 2020 re-id track (Baidu-UTS submission) 
+In this repo, we include the 1st Place code and submission to [NTIRE 2021 Depth Guided Relighting Challenge Track 2: Any-to-any relighting](https://competitions.codalab.org/competitions/28031) and submission to [NTIRE 2021 Depth Guided Relighting Challenge Track 1: One-to-one relighting](https://competitions.codalab.org/competitions/28030) (DeepBlueAI Team submission) 
+
 
 [[Paper]](https://github.com/layumi/AICIty-reID-2020/blob/master/paper.pdf) [[Video]](https://www.bilibili.com/video/BV1hK411A78n/)
 
